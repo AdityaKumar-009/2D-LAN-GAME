@@ -1,8 +1,15 @@
 # 2D LAN Multiplayer Shooting Game Project
 
-## Overview
-
 The proposed project is to develop a 2D LAN Multiplayer Shooting game using the Unity3D game engine. The game will target a casual gaming audience and aim to provide engaging gameplay, vibrant visuals, and intuitive controls. 
+
+---
+## Visuals
+
+The game will feature vibrant 2D visuals with detailed character animations and dynamic environments.
+
+<img src="https://github.com/AdityaKumar-009/2D-LAN-GAME/assets/108915964/81aacce5-84ef-4970-804d-8e973cc3b9bf" height="600" />
+<img src="https://github.com/AdityaKumar-009/2D-LAN-GAME/assets/108915964/22b442c8-a02d-4f85-a9a0-9d62780bd8f5" height="300" />
+<img src="https://github.com/AdityaKumar-009/2D-LAN-GAME/assets/108915964/11bb182c-69a8-4f29-9d46-1b3daebbc1d6" height="600" />
 
 ## Objective
 
@@ -23,10 +30,6 @@ The primary objective is to create an enjoyable and addictive gaming experience 
 ## Target Audience
 
 The game is targeted towards casual gamers who enjoy fast-paced multiplayer action games.
-
-## Visuals
-
-The game will feature vibrant 2D visuals with detailed character animations and dynamic environments.
 
 ## Conclusion
 
